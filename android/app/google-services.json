@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70267147150",
+    "project_id": "doubt-solving-app-97c3d",
+    "storage_bucket": "doubt-solving-app-97c3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70267147150:android:372eb38760db6d71a18adf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZJA9Fs3os3d8ORZm1kbirw5Skg5D8Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70267147150:android:49792cf7377af130a18adf",
+        "android_client_info": {
+          "package_name": "com.example.newapp11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZJA9Fs3os3d8ORZm1kbirw5Skg5D8Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
